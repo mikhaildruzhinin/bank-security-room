@@ -1,0 +1,6 @@
+.env
+.DS_Store
+datacenter/__pycache__/
+datacenter/migrations/__pycache__/
+project/__pycache__/
+todo.txt
