@@ -13,12 +13,17 @@ DB_PORT = 'your db port'
 DB_NAME = 'your db name'
 DB_USER = 'username'
 DB_PASSWORD = 'password'
-
 ```
 Python3 should be already installed. 
 Then use `pip` (or `pip3`, if there is a conflict with Python2) to install dependencies:
 ```
 pip install -r requirements.txt
+```
+
+### Launch
+
+```
+python3 manage.py runserver
 ```
 
 ### Project Goals
